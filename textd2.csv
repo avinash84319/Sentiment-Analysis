@@ -1,0 +1,586 @@
+Sentence,Mood
+I am feeling happy today,1
+It's a beautiful day outside,1
+I am so sad that I can't go out,0
+I am feeling down and blue,0
+This is the best day of my life,1
+I love spending time with my friends,1
+I miss my family so much,0
+Watching a sunset always makes me happy,1
+I feel so alone sometimes,0
+I just got a promotion at work,1
+I am grateful for all the good things in my life,1
+I am so excited for my upcoming vacation,1
+I am feeling overwhelmed by all the work I have to do,0
+I am so proud of my children,1
+I am feeling so tired today,0
+I am feeling so grateful for my health,1
+I am feeling so anxious about my upcoming presentation,0
+I am feeling so blessed to have such wonderful friends,1
+I am feeling so frustrated with my job right now,0
+I am feeling so lonely without my partner,0
+I am so happy to be spending time with my family,1
+I am feeling so stressed about my finances,0
+I am feeling so grateful for the support of my friends and family,1
+I am feeling so overwhelmed with all the things I have to do,0
+I am feeling so lucky to have such a wonderful partner,1
+I am feeling so sad about the loss of my pet,0
+I am feeling so grateful for the opportunities in my life,1
+I am feeling so tired of all the drama in my life,0
+I am feeling so happy with my new haircut,1
+I am feeling so anxious about my health,0
+I am feeling so grateful for my job,1
+I am feeling so frustrated with my partner,0
+I am feeling so lonely without my friends,0
+I am so happy to have found a new hobby,1
+I am feeling so stressed about my upcoming deadline,0
+I am feeling so grateful for my education,1
+I am feeling so overwhelmed by all the changes in my life,0
+I am feeling so lucky to have such a supportive family,1
+I am feeling so sad about the end of my favorite TV show,0
+I am feeling so grateful for my home,1
+I am feeling so tired of all the negativity in the news,0
+I am feeling so happy to have met my soulmate,1
+I am feeling so anxious about my future,0
+I am feeling so grateful for my health and wellbeing,1
+I am feeling so frustrated with my coworkers,0
+I am feeling so lonely without my pets,0
+I am so happy to have achieved my goals,1
+I am feeling so stressed about my relationship,0
+I am feeling so grateful for my community,1
+I am feeling so overwhelmed by all the responsibilities in my life,0
+I am feeling so lucky to have a stable job,1
+I am feeling so sad about the loss of a loved one,0
+I am feeling so grateful for my talents and abilities,1
+I am feeling so tired of all the negativity on social media,0
+I am feeling so happy to have a supportive partner,1
+I am feeling so anxious about my finances,0
+I am feeling so grateful for my family's love and support,1
+I am feeling so frustrated with my health issues,0
+I am feeling so lonely without my significant other,0
+I am so happy to have a fulfilling career,1
+I am feeling so stressed about my workload,0
+I am feeling so grateful for my friends' loyalty,1
+I am feeling so overwhelmed by my emotions,0
+I am feeling so lucky to have a comfortable home,1
+I am feeling so sad about the state of the world,0
+I am feeling so grateful for my partner's love and affection,1
+I am feeling so anxious about my job security,0
+I am feeling so grateful for my personal growth,1
+I am feeling so frustrated with my lack of progress,0
+I am feeling so lonely without my coworkers,0
+I am so happy to have a healthy work-life balance,1
+I am feeling so stressed about my health condition,0
+I am feeling so grateful for my financial stability,1
+I am feeling so overwhelmed by my responsibilities,0
+I am feeling so lucky to have a supportive community,1
+I am feeling so sad about the loss of a friendship,0
+I am feeling so grateful for my hobbies and interests,1
+I am feeling so tired of all the negativity in the world,0
+I am feeling so happy to have a loving family,1
+I am feeling so anxious about my personal relationships,0
+I am feeling so grateful for my mental and emotional health,1
+I am feeling so frustrated with my lack of motivation,0
+I am feeling so lonely without my family,0
+I am so happy to have a fulfilling social life,1
+I am feeling so stressed about my career prospects,0
+I am feeling so grateful for my personal achievements,1
+I am feeling so overwhelmed by my thoughts,0
+I am feeling so lucky to have a comfortable lifestyle,1
+I am feeling so sad about the state of the environment,0
+I am feeling so grateful for my partner's understanding,1
+I am feeling so anxious about my future plans,0
+I am feeling so grateful for my personal relationships,1
+I am feeling so frustrated with my lack of direction,0
+I am feeling so lonely without my friends and family,0
+I am so happy to have a loving partner,1
+I am feeling so stressed about my financial situation,0
+I am feeling so grateful for my personal experiences,1
+I am feeling so overwhelmed by my insecurities,0
+I am feeling so lucky to have a supportive partner,1
+I am feeling so sad about the loss of a family member,0
+I am feeling so grateful for my personal values,1
+I am feeling so tired of all the negativity in the media,0
+I am feeling so happy to have a fulfilling career,1
+I am feeling so anxious about my personal growth,0
+I am feeling so grateful for my personal support system,1
+I am feeling so frustrated with my lack of progress,0
+I am feeling so lonely without my significant other,0
+I am so happy to have a healthy work-life balance,1
+I am feeling so stressed about my health condition,0
+I am feeling so grateful for my financial stability,1
+I am feeling so overwhelmed by my responsibilities,0
+I am feeling so lucky to have a supportive community,1
+I am feeling so sad about the loss of a friendship,0
+I am feeling so grateful for my hobbies and interests,1
+I am feeling so tired of all the negativity in the world,0
+I am feeling so happy to have a loving family,1
+I am feeling so anxious about my personal relationships,0
+I am feeling so grateful for my mental and emotional health,1
+I am feeling so frustrated with my lack of motivation,0
+I am feeling so lonely without my family,0
+I am so happy to have a fulfilling social life,1
+I am feeling so stressed about my career prospects,0
+I am feeling so grateful for my personal achievements,1
+I am feeling so overwhelmed by my thoughts,0
+I am feeling so lucky to have a comfortable lifestyle,1
+I am feeling so sad about the state of the environment,0
+I am feeling so grateful for my partner's understanding,1
+I am feeling so anxious about my future plans,0
+I am feeling so grateful for my personal relationships,1
+I am feeling so frustrated with my lack of direction,0
+I am feeling so lonely without my friends and family,0
+I am so happy to have a loving partner,1
+I am feeling so stressed about my financial situation,0
+I am feeling so grateful for my personal experiences,1
+I am feeling so overwhelmed by my insecurities,0
+I am feeling so lucky to have a supportive partner,1
+I am feeling so sad about the loss of a family member,0
+I am feeling so grateful for my personal values,1
+I am feeling so tired of all the negativity in the media,0
+I am feeling so happy to have a fulfilling career,1
+I am feeling so anxious about my personal growth,0
+I am feeling so grateful for my personal support system,1
+I am feeling so frustrated with my lack of progress,0
+I am feeling so lonely without my significant other,0
+I am so happy to have a healthy work-life balance,1
+I am feeling so stressed about my health condition,0
+I am feeling so grateful for my financial stability,1
+I am feeling so overwhelmed by my responsibilities,0
+I am feeling so lucky to have a supportive community,1
+I am feeling so sad about the loss of a friendship,0
+I am feeling so grateful for my hobbies and interests,1
+I am feeling so tired of all the negativity in the world,0
+I am feeling so happy to have a loving family,1
+I am feeling so anxious about my personal relationships,0
+I am feeling so grateful for my mental and emotional health,1
+I am feeling so frustrated with my lack of motivation,0
+I am feeling so lonely without my family,0
+I am so happy to have a fulfilling social life,1
+I am feeling so stressed about my career prospects,0
+I am feeling so grateful for my personal achievements,1
+I am feeling so overwhelmed by my thoughts,0
+I am feeling so lucky to have a comfortable lifestyle,1
+I am feeling so sad about the state of the environment,0
+I am feeling so grateful for my partner's understanding,1
+I am feeling so anxious about my future plans,0
+I am feeling so grateful for my personal relationships,1
+I am feeling so frustrated with my lack of direction,0
+I am feeling so lonely without my friends and family,0
+I am so happy to have a loving partner,1
+I am feeling so stressed about my financial situation,0
+I am feeling so grateful for my personal experiences,1
+I am feeling so overwhelmed by my insecurities,0
+I am feeling so lucky to have a supportive partner,1
+I am feeling so sad about the loss of a family member,0
+I am feeling so grateful for my personal values,1
+I am feeling so tired of all the negativity in the media,0
+I am feeling so happy to have a fulfilling career,1
+I am feeling so anxious about my personal growth,0
+I am feeling so grateful for my personal support system,1
+I am feeling so frustrated with my lack of progress,0
+I am feeling so lonely without my significant other,0
+I am so happy to have a healthy work-life balance,1
+I am feeling so stressed about my health condition,0
+I am feeling so grateful for my financial stability,1
+I am feeling so overwhelmed by my responsibilities,0
+I am feeling so lucky to have a supportive community,1
+I am feeling so sad about the loss of a friendship,0
+I am feeling so grateful for my hobbies and interests,1
+I am feeling so tired of all the negativity in the world,0
+I am feeling so happy to have a loving family,1
+I am feeling so anxious about my personal relationships,0
+I am feeling so grateful for my mental and emotional health,1
+I am feeling so frustrated with my lack of motivation,0
+I am feeling so lonely without my family,0
+I am so happy to have a fulfilling social life,1
+I am feeling so stressed about my career prospects,0
+I am feeling so grateful for my personal achievements,1
+I am feeling so overwhelmed by my thoughts,0
+I am feeling so lucky to have a comfortable lifestyle,1
+I am feeling so sad about the state of the environment,0
+I am feeling so grateful for my partner's understanding,1
+I am feeling so anxious about my future plans,0
+I am feeling so grateful for my personal relationships,1
+I am feeling so frustrated with my lack of direction,0
+I am feeling so lonely without my friends and family,0
+I am so happy to have a loving partner,1
+I am feeling so stressed about my financial situation,0
+I am feeling so grateful for my personal experiences,1
+I am feeling so overwhelmed by my insecurities,0
+I am feeling so lucky to have a supportive partner,1
+I am feeling so sad about the loss of a family member,0
+I am feeling so grateful for my personal values,1
+I am feeling so tired of all the negativity in the media,0
+I am feeling so happy to have a fulfilling career,1
+I am feeling so anxious about my personal growth,0
+I am feeling so grateful for my personal support system,1
+I am feeling so frustrated with my lack of progress,0
+I am feeling so lonely without my significant other,0
+I am so happy to have a healthy work-life balance,1
+I am feeling so stressed about my health condition,0
+I am feeling so grateful for my financial stability,1
+I am feeling so overwhelmed by my responsibilities,0
+I am feeling so lucky to have a supportive community,1
+I am feeling so sad about the loss of a friendship,0
+I am feeling so grateful for my hobbies and interests,1
+I am feeling so tired of all the negativity in the world,0
+I am feeling so happy to have a loving family,1
+I am feeling so anxious about my personal relationships,0
+I am feeling so grateful for my mental and emotional health,1
+I am feeling so frustrated with my lack of motivation,0
+I am feeling so lonely without my family,0
+I am so happy to have a fulfilling social life,1
+I am feeling so stressed about my career prospects,0
+I am feeling so grateful for my personal achievements,1
+I am feeling so overwhelmed by my thoughts,0
+I am feeling so lucky to have a comfortable lifestyle,1
+I am feeling so sad about the state of the environment,0
+I am feeling so grateful for my partner's understanding,1
+I am feeling so anxious about my future plans,0
+I am feeling so grateful for my personal relationships,1
+I am feeling so frustrated with my lack of direction,0
+I am feeling so lonely without my friends and family,0
+I am so happy to have a loving partner,1
+I am feeling so stressed about my financial situation,0
+I am feeling so grateful for my personal experiences,1
+I am feeling so overwhelmed by my insecurities,0
+I am feeling so lucky to have a supportive partner,1
+I am feeling so sad about the loss of a family member,0
+I am feeling so grateful for my personal values,1
+I am feeling so tired of all the negativity in the media,0
+I am feeling so happy to have a fulfilling career,1
+I am feeling so anxious about my personal growth,0
+I am feeling so grateful for my personal support system,1
+I am feeling so frustrated with my lack of progress,0
+I am feeling so lonely without my significant other,0
+I am so happy to have a healthy work-life balance,1
+I am feeling so stressed about my health condition,0
+I am feeling so grateful for my financial stability,1
+I am feeling so overwhelmed by my responsibilities,0
+I am feeling so lucky to have a supportive community,1
+I am feeling so sad about the loss of a friendship,0
+I am feeling so grateful for my hobbies and interests,1
+I am feeling so tired of all the negativity in the world,0
+I am feeling so happy to have a loving family,1
+I am feeling so anxious about my personal relationships,0
+I am feeling so grateful for my mental and emotional health,1
+I am feeling so frustrated with my lack of motivation,0
+I am feeling so lonely without my family,0
+I am so happy to have a fulfilling social life,1
+I am feeling so stressed about my career prospects,0
+I am feeling so grateful for my personal achievements,1
+I am feeling so overwhelmed by my thoughts,0
+I am feeling so lucky to have a comfortable lifestyle,1
+I am feeling so sad about the state of the environment,0
+I am feeling so grateful for my partner's understanding,1
+I am feeling so anxious about my future plans,0
+I am feeling so grateful for my personal relationships,1
+I am feeling so frustrated with my lack of direction,0
+I am feeling so lonely without my friends and family,0
+I am so happy to have a loving partner,1
+I am feeling so stressed about my financial situation,0
+I am feeling so grateful for my personal experiences,1
+I am feeling so overwhelmed by my insecurities,0
+I am feeling so lucky to have a supportive partner,1
+I am feeling so sad about the loss of a family member,0
+I am feeling so grateful for my personal values,1
+I am feeling so tired of all the negativity in the media,0
+Tears flowed aching with sorrow, 0
+Lost and alone yearning for solace, 0
+Heartbroken burdened by despair, 0
+Empty chair haunted by poignant memories, 0
+Lingering shadows engulfed in melancholy, 0
+Shattered dreams fading into desolation, 0
+Tears streamed consumed by sadness, 0
+Gloomy clouds reflecting profound sadness, 0
+Bereft and forlorn drowning in sorrow, 0
+Embracing emptiness aching with longing, 0
+Silent cries echoing through the night, 0
+Sinking heart weighed down by grief, 0
+Broken spirit shattered into fragments, 0
+Drowning in despair gasping for hope, 0
+Numb and weary soul drifting aimlessly, 0
+Longing for solace in a world of chaos, 0
+Darkness enveloped suffocating the spirit, 0
+Mourning the loss heart heavy with pain, 0
+Aching emptiness echoing through the silence, 0
+Lost in the abyss searching for a way out, 0
+Desolate and abandoned seeking a glimmer of light, 0
+Sorrowful whispers carried by the wind, 0
+Heartache deepened wounds refusing to heal, 0
+Shattered illusions fragments of broken dreams, 0
+Loneliness embraced in a crowd of strangers, 0
+Smiles beamed brimming with joy, 1
+Laughter echoed spreading happiness, 1
+Blissful fulfillment soaring with delight, 1
+Hand in hand strolling into contentment, 1
+Hearts danced engulfed in love, 1
+Radiant eyes exuding pure happiness, 1
+Flourishing blossoms celebrating bliss, 1
+Dreams realized hearts exulted, 1
+Reunited in jubilation friends embraced, 1
+Warm embrace cocooned in happiness, 1
+Joyous laughter echoing in the air, 1
+Basking in sunshine embracing the warmth, 1
+Overflowing with gratitude heart full of thanks, 1
+Dancing with delight spirits lifted high, 1
+Celebrating life's blessings with grateful hearts, 1
+I am sad,0
+I am happy,1
+I am feeling down,0
+I am feeling great,1
+I am depressed,0
+I am excited,1
+I am lonely,0
+I am loved,1
+I am angry,0
+I am peaceful,1
+I lost my job,0
+I got a promotion,1
+I broke up with my boyfriend,0
+I got married,1
+My dog died,0
+I had a baby,1
+I got into a car accident,0
+I won the lottery,1
+I got fired,0
+I got a raise,1
+I'm failing my classes,0
+I'm graduating at the top of my class,1
+I'm getting evicted,0
+I just bought a new house,1
+I'm sick,0
+I'm healthy,1
+I'm broke,0
+I'm rich,1
+I'm ugly,0
+I'm beautiful,1
+I'm lonely,0
+I'm surrounded by loved ones,1
+I'm scared,0
+I'm brave,1
+I'm stressed,0
+I'm relaxed,1
+I'm tired,0
+I'm energized,1
+I'm hungry,0
+I'm full,1
+I'm lost,0
+I'm found,1
+I'm confused,0
+I'm clear,1
+I'm hurt,0
+I'm healed,1
+I'm sad,0
+I'm happy,1
+I am excited to start my new job,1
+I am nervous about my upcoming presentation,0
+I am grateful for my loving family,1
+I am angry at my boss for yelling at me,0
+I am sad that my dog died,0
+I am happy that I am going on vacation,1
+I am lonely because I don't have any friends,0
+I am loved by my friends and family,1
+I am angry at the person who stole my car,0
+I am peaceful after meditating for an hour,1
+I am failing my math class,0
+I am graduating at the top of my class,1
+I am getting evicted from my apartment,0
+I just bought a new house,1
+I am sick with the flu,0
+I am healthy and fit,1
+I am broke and can't afford to pay my bills,0
+I am rich and can buy anything I want,1
+I am ugly and no one wants to date me,0
+I am beautiful and everyone wants to be with me,1
+I am lonely because I don't have any friends,0
+I am surrounded by loved ones who care about me,1
+I am scared of the dark,0
+I am brave and I face my fears,1
+I am stressed about my upcoming test,0
+I am relaxed and I am not worried about anything,1
+I am tired from working all day,0
+I am energized and I am ready to take on the world,1
+I am hungry and I need to eat something,0
+I am full and I am satisfied,1
+I am lost and I don't know where I am going,0
+I am found and I am on the right path,1
+I am confused and I don't know what to do,0
+I am clear and I have a plan,1
+I am hurt and I am in pain,0
+I am healed and I am feeling better,1
+I am sad and I am feeling down,0
+I am happy and I am feeling great,1
+I'm overjoyed,1
+I'm dejected,0
+I'm ecstatic,1
+I'm depressed,0
+I'm elated,1
+I'm gloomy,0
+I'm exhilarated,1
+I'm miserable,0
+I'm thrilled,1
+I'm wretched,0
+I just won the lottery,1
+I just got fired,0
+I just got married,1
+I just got divorced,0
+I just had a baby,1
+I just lost my pet,0
+I just graduated from college,1
+I just failed my final exam,0
+I just got a promotion,1
+I just got a pay cut,0
+I'm surrounded by friends,1
+I'm all alone,0
+I'm healthy and fit,1
+I'm sick with the flu,0
+I'm rich and famous,1
+I'm broke and living on the streets,0
+I'm loved by everyone,1
+I'm hated by everyone,0
+I'm at the top of my game,1
+I'm at the bottom of my life,0
+I'm feeling great,1
+I'm feeling down,0
+I'm excited about the future,1
+I'm scared of what's to come,0
+I'm hopeful for the world,1
+I'm pessimistic about the future,0
+I'm grateful for what I have,1
+I'm envious of others,0
+I'm content with my life,1
+I'm not happy with my life,0
+I'm on top of the world,1
+I'm at rock bottom,0
+I'm flying high,1
+I'm in a rut,0
+I'm unstoppable,1
+I'm stuck,0
+I'm in the zone,1
+I'm all over the place,0
+I'm shining,1
+I'm a shadow of my former self,0
+I'm beaming with joy,1
+I'm crying my eyes out,0
+I'm laughing out loud,1
+I'm feeling blue,0
+I'm on cloud nine,1
+I'm in a state of despair,0
+I'm feeling elated,1
+I'm feeling down in the dumps,0
+I'm feeling ecstatic,1
+I'm feeling miserable,0
+I'm in love,1
+I'm heartbroken,0
+I'm excited,1
+I'm bored,0
+I'm hopeful,1
+I'm pessimistic,0
+I'm grateful,1
+I'm envious,0
+I'm content,1
+I'm not happy,0
+I'm elated with joy,1
+I'm in a state of despair,0
+I'm feeling elated,1
+I'm feeling down in the dumps,0
+I'm feeling ecstatic,1
+I'm feeling miserable,0
+I'm feeling blissful,1
+I'm feeling gloomy,0
+I'm feeling cheerful,1
+I'm feeling dreary,0
+I'm feeling chipper,1
+I'm feeling blue,0
+I'm feeling merry,1
+I'm feeling melancholic,0
+I'm feeling glad,1
+I'm feeling depressed,0
+I'm feeling joyous,1
+I'm feeling dejected,0
+I'm feeling ecstatic,1
+I'm feeling gloomy,0
+I'm feeling elated,1
+I'm feeling dreary,0
+I'm feeling blissful,1
+I'm feeling blue,0
+I'm feeling cheerful,1
+I'm feeling melancholic,0
+I'm feeling chipper,1
+I'm feeling depressed,0
+I'm feeling merry,1
+I'm feeling dejected,0
+I'm feeling glad,1
+I'm feeling joyless,0
+I'm feeling joyous,1
+I'm feeling sorrowful,0
+I'm feeling blissful,1
+I'm feeling gloomy,0
+Elation fills me,1
+Despair crushes me,0
+Elated I am,1
+Down in the dumps I am,0
+Ecstatic I am,1
+Miserable I am,0
+Blissful I am,1
+Gloomy I am,0
+Cheerful I am,1
+Dreary I am,0
+Chipper I am,1
+Blue I am,0
+Merry I am,1
+Melancholic I am,0
+Glad I am,1
+Depressed I am,0
+Joyous I am,1
+Dejected I am,0
+Ecstatic I am,1
+Gloomy I am,0
+Elated I am,1
+Dreary I am,0
+Blissful I am,1
+Blue I am,0
+Cheerful I am,1
+Melancholic I am,0
+Chipper I am,1
+Depressed I am,0
+Merry I am,1
+Dejected I am,0
+Glad I am,1
+Joyless I am,0
+Joyous I am,1
+Sorrowful I am,0
+Blissful I am,1
+Gloomy I am,0
+I am overjoyed to have won the lottery,1
+I am dejected to have been fired,0
+I am ecstatic to have married,1
+I am depressed to have gotten divorced,0
+I am elated to have had a baby,1
+I am gloomy to have lost my pet,0
+I am exhilarated to have graduated from college,1
+I am miserable to have failed my final exam,0
+I am thrilled to have gotten a promotion,1
+I am wretched to have gotten a pay cut,0
+I am surrounded by friends and family who love me,1
+I am all alone in the world,0
+I am healthy and fit,1
+I am sick with the flu,0
+I am rich and famous,1
+I am broke and living on the streets,0
+I am loved by everyone,1
+I am hated by everyone,0
+I am at the top of my game,1
+I am at the bottom of my life,0
+I am feeling great. I have everything I could ever want,1
+I am feeling down. I don't know what to do with my life,0
+I am excited about the future. I can't wait to see what happens,1
+I am scared of what's to come. I don't know if I'm ready,0
+I am hopeful for the world. I believe that things will get better,1
+I am pessimistic about the future. I think things are only going to get worse,0
+I am grateful for what I have. I know that I'm lucky,1
+I am envious of others. I wish I had what they have,0
+I am content with my life. I'm happy with the way things are,1
+I am not happy with my life. I want more,0
